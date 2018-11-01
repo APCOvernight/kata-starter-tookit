@@ -1,5 +1,7 @@
 # Kata Starter Toolkit
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/APCOvernight/kata-starter-tookit.svg)](https://greenkeeper.io/)
+
 This is the barebones set up for practicing code katas in javascript with Mocha and Chai. It makes it quick and easy to start a new session without worrying about the scaffolding.
 
 ## Requirements
